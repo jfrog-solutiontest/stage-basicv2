@@ -1,4 +1,4 @@
-module github.com/jfrog-solutiontest/test-basicv2
+module github.com/jfrog-solutiontest/stage-basicv2
 
 go 1.13
 
